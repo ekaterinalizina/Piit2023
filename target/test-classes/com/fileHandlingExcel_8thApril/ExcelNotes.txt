@@ -1,0 +1,5 @@
+1.create the Excel sheet in your local folder and rename the SheetName
+Pass the data inside the Excel sheet and save the Excel sheet
+Create the package inside Eclipse and copy the excel file and paste it in the package
+In case you want to edit the excel file in your loca, you have to delete the excel file which you have pasted in your Eclipse
+Copy the updated Excel file and again paste it back
